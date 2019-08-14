@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/tobai_brandnav_bridge",
+    "type": "magento-module",
+    "license": "Single-domain-license",
+    "homepage": "",
+    "description": "ToBai BrandNav Bridge makes your ToBai Extended Brand and ToBai Extended Navigation fully compatable.",
+    "authors": [
+    {
+        "name": "ToBai_Brandnav",
+        "email": "team.tobai@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

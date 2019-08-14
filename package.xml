@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>tobai_brandnav_bridge</name>
+    <version>1.0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.to-bai.com/license">Single domain license</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>ToBai BrandNav Bridge makes your ToBai Extended Brand and ToBai Extended Navigation fully compatable.</summary>
+    <description>ToBai BrandNav Bridge is a free extension which makes your ToBai Extended Brand and ToBai Extended Navigation fully compatable. Having this application installed now you have "Shop by" block on your Brand page! All features of Extended Navigation work smoothly there. You have Ajax filters and Sort by, Autoscrolling, Responsive Price Slider, Category Slider, SEO Friendly URLs.&#xD;
+&#xD;
+There is one more very useful feature. When ToBai Extended Brand and ToBai BrandNav Bridge installed you got one new product attribute filter option view type in your ToBai Extended Navigation! It is "Images". You can upload images for attribute options in Manage Brands area. Choose "View Type = Images" at Edit Attribute page Tab "Navigation". And there will be images instead of text in "Shop by" block.</description>
+    <notes>Version 1.0.1.0</notes>
+    <authors><author><name>ToBai_Brandnav</name><user>ToBai</user><email>team.tobai@gmail.com</email></author></authors>
+    <date>2014-08-21</date>
+    <time>12:21:32</time>
+    <contents></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.1</min><max>5.5.14</max></php></required></dependencies>
+</package>
